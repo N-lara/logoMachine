@@ -1,7 +1,6 @@
 {
   "name": "logomachine",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "description": ""
 }
