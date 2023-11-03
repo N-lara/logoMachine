@@ -1,4 +1,4 @@
-const {Triangle, Circle, Rectangle} = require('./shapes');
+const {Triangle, Circle, Rectangle} = require('../lib/shapes');
 
 
 describe('shapes', ()=>{
